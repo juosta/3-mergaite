@@ -52,6 +52,7 @@ div{
     border-width:medium;
     border-radius: 10px;
     padding-inline: 12px;
+    text-transform: uppercase;
     
 }
 
