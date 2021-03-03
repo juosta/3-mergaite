@@ -4,5 +4,5 @@ Published at https://juosta.github.io/2-mergaite/
 
 Features:
 
--HTML
--CSS
+- HTML
+- CSS
