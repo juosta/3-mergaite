@@ -2,7 +2,7 @@
 
 Published at https://juosta.github.io/3-mergaite/
 
-##Features:
+## Features:
 
 - HTML
 - CSS
